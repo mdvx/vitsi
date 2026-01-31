@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "802557678058",
+    "firebase_url": "https://vitsi-prod.firebaseio.com",
+    "project_id": "vitsi-prod",
+    "storage_bucket": "vitsi-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802557678058:android:c08895eb2fb07d20",
+        "android_client_info": {
+          "package_name": "io.vitsi.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802557678058-uhalslmaa4jonl40k3flnegmeb5lhgef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.vitsi.android",
+            "certificate_hash": "c70b770c1c6117b48f9da98108627234e5ca0e64"
+          }
+        },
+        {
+          "client_id": "802557678058-r17j99o3gbe4tag1uu3buhhb043mlr3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObRuFyAGWLV_6vT35gkfxIg9HFFr1NTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802557678058-r17j99o3gbe4tag1uu3buhhb043mlr3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
